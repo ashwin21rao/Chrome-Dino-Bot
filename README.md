@@ -1,5 +1,7 @@
 # Script to auto-play the Chrome dinosaur game
 
+![Image of game](https://user-images.githubusercontent.com/59637517/101451752-ad264500-3952-11eb-89f4-33dab8797e9b.png)
+
 ## How to play
 
 - Open the Chrome developer console (press F12).
